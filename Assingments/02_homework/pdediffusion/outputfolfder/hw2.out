@@ -1,0 +1,46 @@
+Number of CPUs: 1
+Steady state for Cu wire reached at t = 209.00 s
+Steady state for Fe wire reached at t = 722.00 s
+Steady state for Al wire reached at t = 233.00 s
+Steady state for brass wire reached at t = 535.00 s
+Steady state for steel wire reached at t = 867.00 s
+Steady state for Zn wire reached at t = 328.00 s
+Steady state for Pb wire reached at t = 746.00 s
+Steady state for Ti wire reached at t = 1343.00 s
+Execution time in serial:  6.2422356605529785
+Number of CPUs: 2
+Steady state for Fe wire reached at t = 722.00 s
+Steady state for brass wire reached at t = 535.00 s
+Steady state for Zn wire reached at t = 328.00 s
+Steady state for Pb wire reached at t = 746.00 s
+Steady state for Cu wire reached at t = 209.00 s
+Steady state for Al wire reached at t = 233.00 s
+Steady state for steel wire reached at t = 867.00 s
+Steady state for Ti wire reached at t = 1343.00 s
+Execution time in paralell:  3.8016514778137207
+Number of CPUs: 4
+Steady state for Fe wire reached at t = 722.00 s
+Steady state for steel wire reached at t = 867.00 s
+Steady state for Zn wire reached at t = 328.00 s
+Steady state for brass wire reached at t = 535.00 s
+Steady state for Cu wire reached at t = 209.00 s
+Steady state for Pb wire reached at t = 746.00 s
+Steady state for Al wire reached at t = 233.00 s
+Steady state for Ti wire reached at t = 1343.00 s
+Execution time in paralell:  2.433992385864258
+Number of CPUs: 8
+Execution time in paralell:  1.8112151622772217
+Directory 'outputfolder' already exists.
+Data saved in:  outputfolder/time_joblib_hpc.csv
+Data saved in:  outputfolder/t0_joblib_n1.csv
+Data saved in:  outputfolder/t0_joblib_n2.csv
+Data saved in:  outputfolder/t0_joblib_n4.csv
+Data saved in:  outputfolder/t0_joblib_n8.csv
+Steady state for Cu wire reached at t = 209.00 s
+Steady state for steel wire reached at t = 867.00 s
+Steady state for Al wire reached at t = 233.00 s
+Steady state for brass wire reached at t = 535.00 s
+Steady state for Zn wire reached at t = 328.00 s
+Steady state for Fe wire reached at t = 722.00 s
+Steady state for Ti wire reached at t = 1343.00 s
+Steady state for Pb wire reached at t = 746.00 s

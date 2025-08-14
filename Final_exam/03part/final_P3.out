@@ -1,0 +1,196 @@
+Running with 1 CPU(s)...
+Rank 0 initialized with temperatures: [100 125 150 175 200 225 250 275 300 325 350 375 400 425 450 475 500 525
+ 550 575 600 625 650 675 700 725 750 775 800 825 850]
+Simulated 31 temperatures using 1 processes
+Total execution time: 114.99 seconds
+Running with 2 CPU(s)...
+Rank 1 initialized with temperatures: [500 525 550 575 600 625 650 675 700 725 750 775 800 825 850]
+Rank 0 initialized with temperatures: [100 125 150 175 200 225 250 275 300 325 350 375 400 425 450 475]
+Rank 1 sent completion signal
+Rank 0 received completion signal of 0
+Simulated 31 temperatures using 2 processes
+Total execution time: 60.07 seconds
+Running with 4 CPU(s)...
+Rank 1 initialized with temperatures: [300 325 350 375 400 425 450 475]
+Rank 3 initialized with temperatures: [700 725 750 775 800 825 850]
+Rank 2 initialized with temperatures: [500 525 550 575 600 625 650 675]
+Rank 0 initialized with temperatures: [100 125 150 175 200 225 250 275]
+Rank 3 sent completion signal
+Rank 1 sent completion signal
+Rank 0 received completion signal of 0
+Rank 2 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Simulated 31 temperatures using 4 processes
+Total execution time: 38.26 seconds
+Running with 8 CPU(s)...
+Rank 1 initialized with temperatures: [200 225 250 275]
+Rank 3 initialized with temperatures: [400 425 450 475]
+Rank 5 initialized with temperatures: [600 625 650 675]
+Rank 7 initialized with temperatures: [800 825 850]
+Rank 0 initialized with temperatures: [100 125 150 175]
+Rank 6 initialized with temperatures: [700 725 750 775]
+Rank 2 initialized with temperatures: [300 325 350 375]
+Rank 4 initialized with temperatures: [500 525 550 575]
+Rank 7 sent completion signal
+Rank 1 sent completion signal
+Rank 6 sent completion signal
+Rank 5 sent completion signal
+Rank 3 sent completion signal
+Rank 0 received completion signal of 0
+Rank 2 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 4 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Simulated 31 temperatures using 8 processes
+Total execution time: 19.46 seconds
+Running with 16 CPU(s)...
+Rank 0 initialized with temperatures: [100 125]
+Rank 7 initialized with temperatures: [450 475]
+Rank 13 initialized with temperatures: [750 775]
+Rank 9 initialized with temperatures: [550 575]
+Rank 1 initialized with temperatures: [150 175]
+Rank 15 initialized with temperatures: [850]
+Rank 2 initialized with temperatures: [200 225]
+Rank 5 initialized with temperatures: [350 375]
+Rank 6 initialized with temperatures: [400 425]
+Rank 8 initialized with temperatures: [500 525]
+Rank 3 initialized with temperatures: [250 275]
+Rank 11 initialized with temperatures: [650 675]
+Rank 4 initialized with temperatures: [300 325]
+Rank 10 initialized with temperatures: [600 625]
+Rank 12 initialized with temperatures: [700 725]
+Rank 14 initialized with temperatures: [800 825]
+Rank 15 sent completion signal
+Rank 13 sent completion signal
+Rank 3 sent completion signal
+Rank 14 sent completion signal
+Rank 4 sent completion signal
+Rank 7 sent completion signal
+Rank 12 sent completion signal
+Rank 11 sent completion signal
+Rank 10 sent completion signal
+Rank 1 sent completion signal
+Rank 0 received completion signal of 0
+Rank 9 sent completion signal
+Rank 6 sent completion signal
+Rank 8 sent completion signal
+Rank 5 sent completion signal
+Rank 2 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Simulated 31 temperatures using 16 processes
+Total execution time: 12.12 seconds
+Running with 32 CPU(s)...
+Rank 18 initialized with temperatures: [550]
+Rank 28 initialized with temperatures: [800]
+Rank 23 initialized with temperatures: [675]
+Rank 12 initialized with temperatures: [400]
+Rank 22 initialized with temperatures: [650]
+Rank 1 initialized with temperatures: [125]
+Rank 4 initialized with temperatures: [200]
+Rank 26 initialized with temperatures: [750]
+Rank 10 initialized with temperatures: [350]
+Rank 8 initialized with temperatures: [300]
+Rank 3 initialized with temperatures: [175]
+Rank 9 initialized with temperatures: [325]
+Rank 31 initialized with temperatures: []
+Rank 31 sent completion signal
+Rank 30 initialized with temperatures: [850]
+Rank 11 initialized with temperatures: [375]
+Rank 27 initialized with temperatures: [775]
+Rank 15 initialized with temperatures: [475]
+Rank 6 initialized with temperatures: [250]
+Rank 13 initialized with temperatures: [425]
+Rank 16 initialized with temperatures: [500]
+Rank 17 initialized with temperatures: [525]
+Rank 19 initialized with temperatures: [575]
+Rank 20 initialized with temperatures: [600]
+Rank 29 initialized with temperatures: [825]
+Rank 24 initialized with temperatures: [700]
+Rank 0 initialized with temperatures: [100]
+Rank 5 initialized with temperatures: [225]
+Rank 7 initialized with temperatures: [275]
+Rank 14 initialized with temperatures: [450]
+Rank 2 initialized with temperatures: [150]
+Rank 25 initialized with temperatures: [725]
+Rank 21 initialized with temperatures: [625]
+Rank 10 sent completion signal
+Rank 12 sent completion signal
+Rank 28 sent completion signal
+Rank 22 sent completion signal
+Rank 29 sent completion signal
+Rank 17 sent completion signal
+Rank 24 sent completion signal
+Rank 21 sent completion signal
+Rank 7 sent completion signal
+Rank 20 sent completion signal
+Rank 9 sent completion signal
+Rank 14 sent completion signal
+Rank 8 sent completion signal
+Rank 27 sent completion signal
+Rank 30 sent completion signal
+Rank 4 sent completion signal
+Rank 26 sent completion signal
+Rank 15 sent completion signal
+Rank 19 sent completion signal
+Rank 25 sent completion signal
+Rank 13 sent completion signal
+Rank 2 sent completion signal
+Rank 16 sent completion signal
+Rank 5 sent completion signal
+Rank 11 sent completion signal
+Rank 3 sent completion signal
+Rank 1 sent completion signal
+Rank 18 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 6 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 23 sent completion signal
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Rank 0 received completion signal of 0
+Simulated 31 temperatures using 32 processes
+Total execution time: 7.50 seconds
